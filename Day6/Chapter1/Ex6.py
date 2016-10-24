@@ -6,6 +6,6 @@ print(r.search("cw"))
 print(r.search("ckw"))
 print(r.search("ckkw"))
 print(r.search("ckk"))
-print(r.search("kwww"))
+print(r.search("kkkw"))
 
 
