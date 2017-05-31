@@ -3,7 +3,7 @@ import urllib.parse
 import urllib.request
 import os
 
-apikey="bf660eb02b0ee533369ae52b653f22b1"
+apikey=""
 default_url="https://apis.daum.net/search/web?output=xml&apikey="
 
 def get_save_path():
