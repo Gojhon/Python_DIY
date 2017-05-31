@@ -3,7 +3,7 @@ import urllib.parse
 from bs4 import BeautifulSoup
 
 defaultURL="http://openapi.naver.com/search?&"
-key="key=c1b406b32dbbbbeee5f2a36ddc14067f"
+key=""
 target="&target=news"
 sort="&sort=sim"
 start="&start=1"
